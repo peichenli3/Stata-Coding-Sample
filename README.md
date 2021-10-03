@@ -1,4 +1,4 @@
-# Stata-Coding-Sample
+## Stata-Coding-Sample
 
 * working with the Social Connectedness Index (SCI), a dataset built from an anonymized snapshot of Facebook users and their friendship networks. 
 * The data measures the intensity of social connections between counties. 
