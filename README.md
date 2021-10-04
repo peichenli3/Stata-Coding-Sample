@@ -6,9 +6,11 @@
 
 
 
+<p align="center">
+<img src="./output/1.png" width="400" height="300">
+</p>
 
-<img src="./output/1.png" width="400" height="300" >
-
-<img src="./output/2.png" width="100" height="100">
-
+<p align="center">
+<img src="./output/2.png" width="400" height="300">
+</p>
 
