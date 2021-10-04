@@ -7,4 +7,6 @@
 
 ![plot](./output/1.png =250x250)
 
+<img src="./output/1.png" width="100" height="100">
+
 ![plot](./output/2.png)
