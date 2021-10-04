@@ -5,6 +5,6 @@
 * For one overview, see this coverage in the [New York Times](https://www.nytimes.com/interactive/2018/09/19/upshot/facebook-county-friendships.html).
 
 
-![plot](./output/1.png)
+![plot](./output/1.png=100x20)
 
 ![plot](./output/2.png)
