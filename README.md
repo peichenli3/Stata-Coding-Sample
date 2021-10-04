@@ -5,4 +5,4 @@
 * For one overview, see this coverage in the [New York Times](https://www.nytimes.com/interactive/2018/09/19/upshot/facebook-county-friendships.html).
 
 
-![plot](./output/binscatter friendships 100mi to mobility.png)
+![plot](./output/1.png)
