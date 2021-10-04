@@ -7,3 +7,6 @@
 ![](output/binscatter friendships 100mi to mobility.png)
 
 ![](output/histogram within 100 miles national.png?raw=true)
+
+
+![](output/binscatter friendships 100mi to mobility.png?raw=true)
