@@ -5,8 +5,10 @@
 * For one overview, see this coverage in the [New York Times](https://www.nytimes.com/interactive/2018/09/19/upshot/facebook-county-friendships.html).
 
 
-![plot](./output/1.png =250x250)
 
-<img src="./output/1.png" width="100" height="100">
 
-![plot](./output/2.png)
+<img src="./output/1.png" width="500" height="200">
+
+<img src="./output/2.png" width="100" height="100">
+
+
