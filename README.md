@@ -6,3 +6,5 @@
 
 
 ![plot](./output/1.png)
+
+![plot](./output/2.png)
